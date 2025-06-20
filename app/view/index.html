@@ -1,0 +1,30 @@
+{% extends "layout.html" %}
+
+{% block content %}
+<div class="chat-container">
+    <div id="chat-box"></div>
+    <input type="text" id="user-input" placeholder="Digite sua mensagem...">
+    <button onclick="sendMessage()">Enviar</button>
+</div>
+
+<script>
+    async function sendMessage() {
+        const input = document.getElementById("user-input");
+        const message = input.value;
+        if (!message) return;
+
+        const chatBox = document.getElementById("chat-box");
+        chatBox.innerHTML += `<div><b>Você:</b> ${message}</div>`;
+        input.value = "";
+
+        const response = await fetch("/", {
+            method: "POST",
+            headers: {"Content-Type": "application/json"},
+            body: JSON.stringify({message})
+        });
+
+        const data = await response.json();
+        chatBox.innerHTML += `<div><b>Bot:</b> ${data.response}</div>`;
+    }
+</script>
+{% endblock %}
