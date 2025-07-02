@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+{% block content %}
+<form method="POST">
+    <input name="nome" placeholder="Nome completo" required>
+    <input name="cpf" placeholder="CPF" required>
+    <input name="data" placeholder="Data de nascimento" required>
+    <input name="email" type="email" placeholder="E-mail" required>
+    <input name="senha" type="password" placeholder="Senha" required>
+    <button type="submit">Cadastrar</button>
+    <a href="/">Já tem conta? Entrar</a>
+    <p>{{ mensagem }}</p>
+</form>
+{% endblock %}

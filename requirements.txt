@@ -1,3 +1,7 @@
 Flask
 requests
 pymongo
+mysql-connector-python
+google-generativeai
+gunicorn
+PyJWT

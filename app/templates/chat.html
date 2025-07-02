@@ -1,30 +1,31 @@
 {% extends "layout.html" %}
-
 {% block content %}
 <div class="chat-container">
     <div id="chat-box"></div>
     <input type="text" id="user-input" placeholder="Digite sua mensagem...">
     <button onclick="sendMessage()">Enviar</button>
+    <a href="/logout">Sair</a>
 </div>
 
 <script>
     async function sendMessage() {
         const input = document.getElementById("user-input");
-        const message = input.value;
-        if (!message) return;
+        const mensagem = input.value.trim();
+        if (!mensagem) return;
 
         const chatBox = document.getElementById("chat-box");
-        chatBox.innerHTML += `<div><b>Você:</b> ${message}</div>`;
+        chatBox.innerHTML += `<div><b>Você:</b> ${mensagem}</div>`;
         input.value = "";
 
-        const response = await fetch("/", {
+        const response = await fetch("/chat", {
             method: "POST",
-            headers: {"Content-Type": "application/json"},
-            body: JSON.stringify({message})
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ mensagem: mensagem })
         });
 
         const data = await response.json();
-        chatBox.innerHTML += `<div><b>Bot:</b> ${data.response}</div>`;
+        chatBox.innerHTML += `<div><b>Bot:</b> ${data.mensagem}</div>`;
+        chatBox.scrollTop = chatBox.scrollHeight;
     }
 </script>
 {% endblock %}

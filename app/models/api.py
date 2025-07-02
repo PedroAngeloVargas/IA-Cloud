@@ -1,7 +1,7 @@
 import requests
 from .db import get_db, get_next_sequence, get_timestamp
 
-API_KEY = "SEU_TOKEN"
+API_KEY = "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"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 def send_message_to_openrouter(user_input):
