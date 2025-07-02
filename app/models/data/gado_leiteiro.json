@@ -1,0 +1,46 @@
+[
+  {
+    "titulo": "Manejo de Gado Leiteiro",
+    "descricao": "O manejo adequado do gado leiteiro envolve alimentação balanceada, controle sanitário e conforto térmico. É importante manter a ordenha em horários fixos e garantir água limpa e abundante."
+  },
+  {
+    "titulo": "Raças de Gado de Corte",
+    "descricao": "As principais raças de gado de corte criadas no Brasil incluem o Nelore, Angus, Brahman, Guzerá, Senepol e Brangus. O Nelore é a raça mais comum devido à sua rusticidade e adaptação ao clima tropical, sendo amplamente utilizada em cruzamentos. O Angus destaca-se pela qualidade da carne marmorizada e macia, ideal para confinamento. Já o Senepol e o Brangus são conhecidos por sua precocidade e ganho de peso. A escolha da raça deve considerar o clima, tipo de solo, alimentação disponível e objetivo de produção."
+  },
+  {
+    "titulo": "Nutrição e Alimentação de Bovinos",
+    "descricao": "A nutrição adequada do rebanho é essencial para o bom desempenho produtivo e reprodutivo. A dieta básica deve incluir volumosos (capim, silagem, feno) e concentrados (ração, farelo de soja e milho). É importante equilibrar os nutrientes: energia, proteína, fibras, vitaminas e minerais. A suplementação mineral é indispensável, especialmente com fósforo, cálcio, sal comum e microminerais. Bovinos de corte em fase de terminação podem receber alimentação em confinamento para acelerar o ganho de peso. Água limpa e abundante deve estar sempre disponível."
+  },
+  {
+    "titulo": "Sanidade e Manejo Sanitário",
+    "descricao": "O manejo sanitário preventivo reduz os riscos de doenças e garante a saúde do rebanho. As práticas incluem vacinação (como contra febre aftosa, brucelose, clostridioses), vermifugação e controle de ectoparasitas (berne, carrapato, mosca-do-chifre). Deve-se realizar quarentena para animais recém-chegados, limpeza e desinfecção de instalações, controle de trânsito de veículos e pessoas, e manter um calendário sanitário atualizado. A orientação de um médico veterinário é fundamental para um manejo eficiente."
+  },
+  {
+    "titulo": "Bem-Estar Animal",
+    "descricao": "O bem-estar animal está relacionado às condições adequadas de criação, transporte e manejo, visando minimizar o estresse e garantir qualidade de vida aos animais. Bons exemplos incluem o manejo calmo, oferta de sombra e abrigo, boas práticas no transporte e abate humanitário. O bem-estar impacta diretamente a produtividade e a qualidade da carne ou leite produzidos."
+  },
+  {
+    "titulo": "Manejo Reprodutivo",
+    "descricao": "O manejo reprodutivo envolve a escolha de matrizes e touros, controle do cio, inseminação artificial e diagnóstico de gestação. A inseminação artificial permite melhoramento genético acelerado e controle de doenças venéreas. É importante realizar exames ginecológicos, avaliar o escore corporal das fêmeas e manter um bom manejo nutricional. O intervalo entre partos e a taxa de prenhez são indicadores importantes para a eficiência do sistema."
+  },
+  {
+    "titulo": "Manejo de Pastagens",
+    "descricao": "O manejo de pastagens é crucial para a pecuária sustentável. A técnica de pastejo rotacionado, onde o pasto é dividido em piquetes, permite o descanso e a recuperação da forragem, garantindo alimento de qualidade por mais tempo. O controle da altura de entrada e saída dos animais do piquete é um indicador chave."
+  },
+  {
+    "titulo": "Melhoramento Genético",
+    "descricao": "O melhoramento genético visa selecionar animais com características superiores, como maior ganho de peso, melhor qualidade de carne, maior produção de leite e resistência a doenças. Ferramentas como a avaliação de DEPs (Diferença Esperada na Progênie) e o uso de cruzamento industrial são estratégias eficazes."
+  },
+  {
+    "titulo": "Cria e Recria de Bezerros",
+    "descricao": "A fase de cria e recria é a base para a formação de um rebanho produtivo. Cuidados essenciais incluem a cura do umbigo ao nascimento, a garantia da ingestão do colostro nas primeiras horas de vida, um calendário de vacinação específico para bezerros e um manejo nutricional que garanta um bom desenvolvimento até a fase de engorda ou reprodução."
+  },
+  {
+    "titulo": "Sistemas de Confinamento",
+    "descricao": "O confinamento é um sistema intensivo onde os animais são mantidos em áreas restritas e alimentados com uma dieta totalmente fornecida no cocho. É utilizado principalmente na fase de terminação (engorda) para acelerar o ganho de peso, padronizar o acabamento da carcaça e otimizar a produção em períodos de seca."
+  },
+  {
+    "titulo": "uma coisa que só eu sei",
+    "descricao": "gosto de bolo de laranja"
+  }
+]

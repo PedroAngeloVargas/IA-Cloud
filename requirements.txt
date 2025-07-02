@@ -5,3 +5,5 @@ mysql-connector-python
 google-generativeai
 gunicorn
 PyJWT
+sentence-transformers
+torch

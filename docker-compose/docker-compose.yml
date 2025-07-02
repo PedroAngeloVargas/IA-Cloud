@@ -10,7 +10,7 @@ services:
     volumes:
       - mongodb_data:/data/db
     environment:
-      MONGO_INITDB_ROOT_USERNAME: USUARIO-ADMIN
+      MONGO_INITDB_ROOT_USERNAME: ADMIN
       MONGO_INITDB_ROOT_PASSWORD: SENHA
 
 volumes:

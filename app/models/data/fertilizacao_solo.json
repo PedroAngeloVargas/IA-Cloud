@@ -1,0 +1,56 @@
+[
+  {
+    "titulo": "Fertilização do Solo",
+    "descricao": "A fertilização deve ser baseada em análise de solo. O uso de NPK deve ser ajustado conforme a cultura plantada, buscando eficiência e sustentabilidade."
+  },
+  {
+    "titulo": "Fertilização do Cafeeiro",
+    "descricao":  "A fertilização do cafeeiro deve ser baseada na análise do solo, utilizando adubos orgânicos e químicos. O uso de NPK é comum, especialmente nas fases de formação e produção."
+  },
+  {
+    	
+    "titulo":	"Manejo da Irrigação",
+    "descricao": "A irrigação deve ser feita conforme as necessidades hídricas da cultura, evitando excesso de água e perdas por evaporação. Métodos como gotejamento e aspersão são eficientes em diversas culturas."
+  },
+  {
+    	
+    "titulo":	"Plantio de Milho",
+    "descricao":	"O milho deve ser plantado em solo fértil e bem drenado, com espaçamento entre linhas de 90 cm e entre plantas de 20 cm. O plantio pode ser feito mecanicamente ou manualmente, preferencialmente no início da estação chuvosa."
+  },
+  {
+    	
+    "titulo":"Rotação de Culturas",
+    "descricao":	"A rotação de culturas ajuda a manter a fertilidade do solo e a controlar pragas e doenças. Culturas como milho, soja, feijão e braquiária podem ser rotacionadas estrategicamente."
+  },
+  {
+    	
+    "titulo":	"Agricultura de Precisão",
+    "descricao":	"A agricultura de precisão é um conjunto de técnicas que utiliza tecnologias para otimizar a produção agrícola, reduzindo desperdícios e impactos ambientais. Ela envolve o uso de GPS, sensores, drones, imagens de satélite, softwares de mapeamento e análise de dados. Permite o monitoramento detalhado das condições do solo, clima e planta, promovendo a aplicação localizada de insumos (fertilizantes, defensivos e sementes). Isso resulta em aumento de eficiência, economia e sustentabilidade. A coleta de dados em tempo real e o uso de máquinas agrícolas automatizadas são características fundamentais dessa abordagem. É especialmente útil em grandes áreas de cultivo como soja, milho e algodão, mas vem sendo adaptada também à agricultura familiar com o avanço da conectividade rural."
+  },
+  {
+    	
+    "titulo": "Boas Práticas em Agricultura Sustentável",
+    "descricao":	"A agricultura sustentável visa atender às necessidades alimentares presentes sem comprometer as gerações futuras. Práticas como o uso racional da água, manejo integrado de pragas, rotação de culturas, adubação verde, compostagem, e conservação do solo são fundamentais. Sistemas agroflorestais, consórcios de culturas e técnicas como o plantio direto ajudam a manter a biodiversidade e a saúde do solo. A certificação orgânica também promove práticas sustentáveis, exigindo ausência de agrotóxicos e transgênicos. A adoção de tecnologias como sensoriamento remoto e agricultura de precisão auxilia no monitoramento de lavouras, reduzindo desperdícios e aumentando a produtividade de forma sustentável."
+  },
+  {
+    	
+    "titulo":	"Manejo Integrado do Solo",
+    "descricao":	"O manejo do solo é essencial para garantir a produtividade agrícola e a preservação ambiental. Entre as estratégias de conservação, destacam-se o terraceamento, o uso de curvas de nível, cobertura do solo com palha ou plantas de cobertura, e a redução da mobilização excessiva do solo. A análise química, física e biológica do solo permite entender suas necessidades e planejar corretamente a adubação e correção com calcário. O controle da compactação, por meio do uso racional de máquinas e da rotação de culturas com raízes profundas, ajuda a manter a estrutura do solo. A matéria orgânica é outro fator importante: sua incorporação aumenta a capacidade de retenção de água, a atividade microbiana e a fertilidade natural do solo, reduzindo a dependência de insumos externos."
+  },
+  {
+    "titulo":	"Plantio de Trigo",
+    "descricao": "O trigo deve ser semeado em solos bem drenados com pH entre 5,5 e 6,5. A época de plantio varia conforme a região, sendo importante evitar o excesso de umidade no solo."
+  },
+  {
+    "titulo":	"Manejo do Milho Safrinha",
+    "descricao":	"O milho safrinha é plantado após a colheita da soja. Deve-se garantir solo fértil, adubação correta e controle de pragas como a cigarrinha-do-milho."
+  },
+  {
+    "titulo": "Armazenamento de Grãos",
+    "descricao": "Após a colheita, os grãos devem ser armazenados em locais ventilados, com controle de temperatura e umidade, para evitar fungos e perdas por insetos."
+  },
+  {
+    "titulo": "Item Raro da Fazenda",
+    "descricao": "O item raro guardado no celeiro da Fazenda Júpiter é uma 'Pena Dourada'."
+  }
+]

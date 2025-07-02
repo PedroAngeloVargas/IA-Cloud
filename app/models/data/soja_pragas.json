@@ -1,0 +1,30 @@
+[
+  {
+    "titulo": "Principais Pragas da Soja",
+    "descricao": "As principais pragas da soja incluem a lagarta-da-soja, percevejo-marrom e mosca-branca. O controle deve ser feito com monitoramento constante e uso racional de defensivos para preservar os inimigos naturais."
+  },
+  {
+    "titulo": "Controle de Pragas no Algodão",
+    "descricao": "As principais pragas do algodão incluem bicudo-do-algodoeiro, lagarta rosada e mosca-branca. O controle deve ser integrado, com monitoramento constante e uso equilibrado de inseticidas."
+  },
+  {
+    "titulo": "Preparo do Solo para Plantio",
+    "descricao": "Um bom preparo do solo é fundamental para o sucesso da lavoura. Inclui aração, gradagem e calagem para corrigir a acidez (pH do solo). A análise de solo é essencial para determinar as necessidades de calcário e fertilizantes."
+  },
+  {
+    "titulo": "Plantio e Pragas do Milho",
+    "descricao": "O milho é suscetível a pragas como a lagarta-do-cartucho e a cigarrinha-do-milho, que pode transmitir doenças (enfezamentos). A escolha de híbridos resistentes e o tratamento de sementes são práticas importantes."
+  },
+  {
+    "titulo": "Manejo da Broca-do-Café",
+    "descricao": "A broca-do-café é uma das principais pragas da cafeicultura, atacando os grãos e causando grandes perdas de qualidade e produtividade. O manejo integrado envolve controle biológico, colheita bem-feita para não deixar grãos no campo e controle químico como última opção."
+  },
+  {
+    "titulo": "Rotação de Culturas",
+    "descricao": "A rotação de culturas é uma prática sustentável que consiste em alternar diferentes espécies de plantas na mesma área. Ajuda a melhorar a saúde do solo, controlar pragas, doenças e plantas daninhas, além de repor nutrientes."
+  },
+  {
+    "titulo": "Pragas da Cana-de-Açúcar",
+    "descricao": "A broca-da-cana e a cigarrinha-das-raízes são pragas importantes na cultura da cana-de-açúcar. O controle biológico, com o uso de vespas como a Cotesia flavipes contra a broca, é uma das estratégias mais eficientes e sustentáveis."
+  }
+]
