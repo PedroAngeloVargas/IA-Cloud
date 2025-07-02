@@ -4,7 +4,7 @@
 
 O AgroIA é um chatbot inteligente com interface web, voltado exclusivamente para responder dúvidas e fornecer informações relacionadas à agropecuária e ao agronegócio brasileiro. Ele foi desenvolvido com o intuito de facilitar o acesso a informações confiáveis do setor, auxiliando produtores rurais, técnicos e estudantes da área.
 
-###🛠️ Tecnologias Utilizadas
+### 🛠️ Tecnologias Utilizadas
 
 💬 Módulo Chatbot (Backend Inteligente)
 - Linguagem: Python
