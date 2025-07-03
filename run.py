@@ -20,9 +20,9 @@ app.secret_key = 'segredo'
 
 # --------------------------- CONFIGURAÇÃO BANCO ---------------------------
 DB_CONFIG = {
-    'host': 'localhost',
+    'host': 'banco_mysql',
     'user': 'SEU_USUARIO',
-    'password': 'SENHA',
+    'password': 'SUA_SENHA',
     'database': 'usuarios_db'
 }
 

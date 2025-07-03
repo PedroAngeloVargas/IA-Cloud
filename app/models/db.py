@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 from datetime import datetime
 
-client = MongoClient("mongodb://")
+client = MongoClient("mongodb://USUARIO_ADMIN:SENHA@banco_mongo/admin")
 
 db = client["chat_db"]
 

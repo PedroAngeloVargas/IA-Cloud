@@ -31,6 +31,8 @@ Telas disponíveis:
 - Tela de Cadastro
 
 ### 🧱 Parte da Estrutura do Projeto
+
+```
 IA-Cloud-main/
 │
 ├── app/                        # Módulo Python (Flask)
@@ -47,6 +49,7 @@ IA-Cloud-main/
 ├── Tela de Cadastro.png        # Protótipo da tela de cadastro
 ├── Chatbot.png                 # Protótipo da tela do chatbot
 └── ...                         # Demais arquivos do sistema (PHP)
+```
 
 ### 👤 Fluxo do Usuário
 - O usuário acessa a interface web.

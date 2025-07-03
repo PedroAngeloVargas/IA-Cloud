@@ -4,7 +4,7 @@ import requests
 import json
 from .db import get_db, get_next_sequence, get_timestamp
 
-API_KEY = ""
+API_KEY = "SEU_TOKEN"
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 # --- FUNÇÃO CORRIGIDA QUE ACEITA 2 ARGUMENTOS ---

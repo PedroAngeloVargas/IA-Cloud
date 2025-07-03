@@ -1,0 +1,24 @@
+services:
+  
+  mongo-express:
+    image: mongo-express
+    container_name: mongo-express
+    restart: always
+    ports:
+      - "127.0.0.1:8081:8081"
+    environment:
+      ME_CONFIG_MONGODB_ADMINUSERNAME: USUARIO_ADMIN
+      ME_CONFIG_MONGODB_ADMINPASSWORD: SUA_SENHA
+      ME_CONFIG_MONGODB_URL: mongodb://USUARIO_ADMIN:SUA_SENHA@banco_mongo/admin
+      ME_CONFIG_BASICAUTH: null
+    networks:
+      - agronomIA_network
+    volumes:
+      - mongo_data:/opt/cloudbeaver/workspace
+
+volumes:
+  mongo_data:
+
+networks:
+  agronomIA_network:
+    driver: bridge

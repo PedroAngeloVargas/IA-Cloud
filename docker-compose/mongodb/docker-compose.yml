@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  mongodb:
+    image: mongo:latest
+    container_name: banco_mongo
+    restart: always
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongodb_data:/data/db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: USUARIO_ADMIN
+      MONGO_INITDB_ROOT_PASSWORD: SUA_SENHA
+    networks:
+      - agronomIA_network
+volumes:
+  mongodb_data:
+
+networks:
+  agronomIA_network:
+    driver: bridge
