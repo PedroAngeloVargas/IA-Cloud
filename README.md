@@ -62,10 +62,10 @@ IA-Cloud/
 │   │   └── index.html              # Página principal da aplicação
 │   └── __init__.py                 # Inicializa o app Flask com a estrutura de pastas
 │
-├── Wireframe                       # Pasta com os prototipos da aplicação
-├── terraform                       # Pasta contendo exemplo de infraestrura pra utilizar a aplicação
+├── Wireframe/                      # Pasta com os prototipos da aplicação
+├── terraform/                      # Pasta contendo exemplo de infraestrura pra utilizar a aplicação
 ├── requirements.txt                # Lista de dependências do Python
-├── docker-compose                  # Arquivos docker-compose para facilitar a implementação
+├── docker-compose/                 # Arquivos docker-compose para facilitar a implementação
 ├── Dockerfile                      # Caso queira transformar a aplicação em imagem docker
 ├── teste_rag.py                    # Testar funcionamento do RAG
 ├── run.py                          # Arquivo principal para iniciar o servidor Flask
